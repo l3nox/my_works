@@ -6,6 +6,6 @@
 
 
 $(function(){
-    alert('Witaj!');
+    alert('Witaj!!!');
     
 });
