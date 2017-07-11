@@ -8,7 +8,7 @@
 $(function(){
     
     function KolorStrony(){
-        $('body').css('bakground','blue');
+        $('body').css('background-color','blue');
     }
     
     KolorStrony();
