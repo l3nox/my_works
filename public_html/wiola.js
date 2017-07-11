@@ -7,10 +7,10 @@
 
 $(function(){
     
-    function zmienKolorStrony(){
+    function KolorStrony(){
         $('body').css('bakground','blue');
     }
     
-    zmienKolorStrony();
+    KolorStrony();
     
 });
