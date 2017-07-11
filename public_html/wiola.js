@@ -14,3 +14,6 @@ $(function(){
     KolorStrony();
     
 });
+ function Wiolawezpomoz(){
+    
+}
